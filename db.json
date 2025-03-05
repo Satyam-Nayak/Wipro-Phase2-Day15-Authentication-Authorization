@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1737443068466,
+      "email": "abc@gmail.com",
+      "password": "fc80e02da0837edd5912e3bffbf8ed1845adda1617b097180f1cc2e7bdf646d7"
+    },
+    {
+      "id": 1737443199270,
+      "email": "sharath@gmail.com",
+      "password": "fc80e02da0837edd5912e3bffbf8ed1845adda1617b097180f1cc2e7bdf646d7"
+    },
+    {
+      "id": 1741154746482,
+      "email": "sam@gmail.com",
+      "password": "ea9b2c669fa8d41ec9e6beec6c6fdadabfe6863e98db4849bcbda4d81bbd1843"
+    }
+  ],
+  "todos": [
+    {
+      "title": "Sam",
+      "completed": true,
+      "id": 1
+    }
+  ]
+}
